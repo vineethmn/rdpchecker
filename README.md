@@ -10,5 +10,7 @@ Usage: python rdp_checker.py -i INPUTFILE -c CSVFILE
 Options:
 
 -h, --help show this help message and exit
+
 -i INPUTFILE, --input=INPUTFILE List of IP addresses with one IP address per line
+
 -c CSVFILE, --csv=CSVFILE Output CSV filename
